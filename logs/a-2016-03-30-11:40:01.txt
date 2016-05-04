@@ -1,0 +1,22 @@
+Mar 28 12:48:19 localhost polkitd[689]: Registered Authentication Agent for unix-process:12347:445479 (system bus name :1.168 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 12:48:20 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:12347:445479 (system bus name :1.168, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 12:52:09 localhost polkitd[689]: Registered Authentication Agent for unix-process:12975:468504 (system bus name :1.175 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 12:52:10 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:12975:468504 (system bus name :1.175, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 12:53:29 localhost polkitd[689]: Registered Authentication Agent for unix-process:13191:476462 (system bus name :1.176 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 12:53:37 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:13191:476462 (system bus name :1.176, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:00:45 localhost polkitd[689]: Registered Authentication Agent for unix-process:13971:520112 (system bus name :1.184 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 13:00:47 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:13971:520112 (system bus name :1.184, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:04:43 localhost polkitd[689]: Registered Authentication Agent for unix-process:14614:543912 (system bus name :1.188 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 13:04:45 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:14614:543912 (system bus name :1.188, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:05:27 localhost polkitd[689]: Registered Authentication Agent for unix-process:14984:548224 (system bus name :1.191 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 13:05:35 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:14984:548224 (system bus name :1.191, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:07:19 localhost polkitd[689]: Registered Authentication Agent for unix-process:15375:559432 (system bus name :1.199 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 13:07:20 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:15375:559432 (system bus name :1.199, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:18:16 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 28 13:34:01 localhost gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=an
+Mar 28 13:34:01 localhost gdm-password]: gkr-pam: the password for the login keyring was invalid.
+Mar 28 13:34:05 localhost gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=an
+Mar 28 13:34:05 localhost gdm-password]: gkr-pam: the password for the login keyring was invalid.
+Mar 28 13:34:10 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 28 13:43:29 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 28 13:53:41 localhost su: pam_unix(su:session): session closed for user root

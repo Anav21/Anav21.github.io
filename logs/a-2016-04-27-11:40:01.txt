@@ -1,0 +1,8 @@
+Apr 26 12:35:00 localhost gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=an
+Apr 26 12:35:00 localhost gdm-password]: gkr-pam: the password for the login keyring was invalid.
+Apr 26 12:35:05 localhost gdm-password]: gkr-pam: unlocked login keyring
+Apr 26 12:53:48 localhost gdm-password]: gkr-pam: unlocked login keyring
+Apr 26 12:58:58 localhost su: pam_unix(su:session): session opened for user root by an(uid=1000)
+Apr 26 12:59:35 localhost polkitd[704]: Registered Authentication Agent for unix-process:9435:554433 (system bus name :1.169 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Apr 26 12:59:36 localhost polkitd[704]: Unregistered Authentication Agent for unix-process:9435:554433 (system bus name :1.169, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Apr 26 13:39:05 localhost su: pam_unix(su:session): session closed for user root

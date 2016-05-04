@@ -1,0 +1,72 @@
+Mar 28 12:48:19 localhost polkitd[689]: Registered Authentication Agent for unix-process:12347:445479 (system bus name :1.168 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 12:48:20 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:12347:445479 (system bus name :1.168, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 12:52:09 localhost polkitd[689]: Registered Authentication Agent for unix-process:12975:468504 (system bus name :1.175 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 12:52:10 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:12975:468504 (system bus name :1.175, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 12:53:29 localhost polkitd[689]: Registered Authentication Agent for unix-process:13191:476462 (system bus name :1.176 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 12:53:37 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:13191:476462 (system bus name :1.176, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:00:45 localhost polkitd[689]: Registered Authentication Agent for unix-process:13971:520112 (system bus name :1.184 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 13:00:47 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:13971:520112 (system bus name :1.184, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:04:43 localhost polkitd[689]: Registered Authentication Agent for unix-process:14614:543912 (system bus name :1.188 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 13:04:45 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:14614:543912 (system bus name :1.188, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:05:27 localhost polkitd[689]: Registered Authentication Agent for unix-process:14984:548224 (system bus name :1.191 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 13:05:35 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:14984:548224 (system bus name :1.191, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:07:19 localhost polkitd[689]: Registered Authentication Agent for unix-process:15375:559432 (system bus name :1.199 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 28 13:07:20 localhost polkitd[689]: Unregistered Authentication Agent for unix-process:15375:559432 (system bus name :1.199, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 28 13:18:16 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 28 13:34:01 localhost gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=an
+Mar 28 13:34:01 localhost gdm-password]: gkr-pam: the password for the login keyring was invalid.
+Mar 28 13:34:05 localhost gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=an
+Mar 28 13:34:05 localhost gdm-password]: gkr-pam: the password for the login keyring was invalid.
+Mar 28 13:34:10 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 28 13:43:29 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 28 13:53:41 localhost su: pam_unix(su:session): session closed for user root
+Mar 30 12:30:28 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 30 13:15:39 localhost polkitd[696]: Operator of unix-session:1 FAILED to authenticate to gain authorization for action org.freedesktop.udisks2.filesystem-mount-system for system-bus-name::1.71 [/usr/libexec/gvfs-udisks2-volume-monitor] (owned by unix-user:an)
+Mar 30 13:24:26 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 30 13:28:41 localhost su: pam_unix(su:session): session opened for user root by an(uid=1000)
+Mar 30 13:28:52 localhost polkitd[696]: Registered Authentication Agent for unix-process:10611:700801 (system bus name :1.180 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 30 13:28:53 localhost polkitd[696]: Unregistered Authentication Agent for unix-process:10611:700801 (system bus name :1.180, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 30 13:29:02 localhost polkitd[696]: Registered Authentication Agent for unix-process:10781:701780 (system bus name :1.181 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 30 13:29:02 localhost polkitd[696]: Unregistered Authentication Agent for unix-process:10781:701780 (system bus name :1.181, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 30 13:31:17 localhost polkitd[696]: Registered Authentication Agent for unix-process:11308:715300 (system bus name :1.189 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 30 13:31:18 localhost polkitd[696]: Unregistered Authentication Agent for unix-process:11308:715300 (system bus name :1.189, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 30 13:31:20 localhost polkitd[696]: Registered Authentication Agent for unix-process:11476:715605 (system bus name :1.190 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 30 13:31:21 localhost polkitd[696]: Unregistered Authentication Agent for unix-process:11476:715605 (system bus name :1.190, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 30 13:44:50 localhost polkitd[696]: Registered Authentication Agent for unix-process:12197:796605 (system bus name :1.197 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 30 13:44:51 localhost polkitd[696]: Unregistered Authentication Agent for unix-process:12197:796605 (system bus name :1.197, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 30 13:45:05 localhost polkitd[696]: Registered Authentication Agent for unix-process:12552:798108 (system bus name :1.200 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 30 13:45:06 localhost polkitd[696]: Unregistered Authentication Agent for unix-process:12552:798108 (system bus name :1.200, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 30 13:48:36 localhost polkitd[696]: Registered Authentication Agent for unix-process:12896:819198 (system bus name :1.204 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 30 13:48:37 localhost polkitd[696]: Unregistered Authentication Agent for unix-process:12896:819198 (system bus name :1.204, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 30 13:49:27 localhost polkitd[696]: Registered Authentication Agent for unix-process:13128:824295 (system bus name :1.205 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 30 13:49:30 localhost polkitd[696]: Unregistered Authentication Agent for unix-process:13128:824295 (system bus name :1.205, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 30 13:55:35 localhost su: pam_unix(su:session): session closed for user root
+Mar 31 11:27:02 localhost polkitd[691]: Registered Authentication Agent for unix-session:c1 (system bus name :1.27 [gnome-shell --mode=gdm], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Mar 31 11:27:37 localhost gdm-password]: pam_unix(gdm-password:session): session opened for user an by (unknown)(uid=0)
+Mar 31 11:27:38 localhost polkitd[691]: Unregistered Authentication Agent for unix-session:c1 (system bus name :1.27, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Mar 31 11:27:39 localhost polkitd[691]: Registered Authentication Agent for unix-session:1 (system bus name :1.64 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 31 11:44:18 localhost su: pam_unix(su:session): session opened for user root by an(uid=1000)
+Mar 31 11:44:32 localhost polkitd[691]: Registered Authentication Agent for unix-process:5254:108990 (system bus name :1.109 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 31 11:44:33 localhost polkitd[691]: Unregistered Authentication Agent for unix-process:5254:108990 (system bus name :1.109, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 31 11:47:45 localhost polkitd[691]: Registered Authentication Agent for unix-process:5658:128271 (system bus name :1.112 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 31 11:47:46 localhost polkitd[691]: Unregistered Authentication Agent for unix-process:5658:128271 (system bus name :1.112, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 31 12:01:19 localhost polkitd[691]: Registered Authentication Agent for unix-process:6797:209749 (system bus name :1.125 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 31 12:01:21 localhost polkitd[691]: Unregistered Authentication Agent for unix-process:6797:209749 (system bus name :1.125, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 31 12:02:28 localhost polkitd[691]: Registered Authentication Agent for unix-process:6982:216630 (system bus name :1.126 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 31 12:02:29 localhost polkitd[691]: Unregistered Authentication Agent for unix-process:6982:216630 (system bus name :1.126, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 31 12:03:18 localhost polkitd[691]: Registered Authentication Agent for unix-process:7192:221580 (system bus name :1.127 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 31 12:03:19 localhost polkitd[691]: Unregistered Authentication Agent for unix-process:7192:221580 (system bus name :1.127, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 31 12:41:26 localhost polkitd[691]: Registered Authentication Agent for unix-process:9650:450437 (system bus name :1.158 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 31 12:41:27 localhost polkitd[691]: Unregistered Authentication Agent for unix-process:9650:450437 (system bus name :1.158, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 31 13:29:36 localhost gdm-password]: pam_unix(gdm-password:auth): conversation failed
+Mar 31 13:29:36 localhost gdm-password]: pam_unix(gdm-password:auth): auth could not identify password for [an]
+Mar 31 13:29:36 localhost gdm-password]: gkr-pam: no password is available for user
+Mar 31 13:30:53 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 31 13:49:28 localhost polkitd[691]: Registered Authentication Agent for unix-process:13770:858607 (system bus name :1.210 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Mar 31 13:49:31 localhost polkitd[691]: Unregistered Authentication Agent for unix-process:13770:858607 (system bus name :1.210, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)
+Mar 31 13:50:09 localhost su: pam_unix(su:session): session closed for user root
+Mar 31 13:50:20 localhost gdm-password]: pam_unix(gdm-password:auth): conversation failed
+Mar 31 13:50:20 localhost gdm-password]: pam_unix(gdm-password:auth): auth could not identify password for [an]
+Mar 31 13:50:20 localhost gdm-password]: gkr-pam: no password is available for user
+Apr  1 11:54:19 localhost polkitd[696]: Registered Authentication Agent for unix-process:5570:129108 (system bus name :1.111 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8)
+Apr  1 11:54:21 localhost polkitd[696]: Unregistered Authentication Agent for unix-process:5570:129108 (system bus name :1.111, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.utf8) (disconnected from bus)

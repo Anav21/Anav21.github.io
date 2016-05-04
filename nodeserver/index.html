@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Case</title>
+  <link rel="stylesheet" type="text/css" href="http://10.183.1.26/dist/css/bootstrap.min.css">
+</head>
+<body>
+<hr />
+Bootstrap loaded from 10.183.1.26/dist/*
+<hr />
+
+<b>Insert Decimal Number: </b><input type = "text" name = "deci" id = "deci" size = "15" maxlength = "15" />
+<input type="button" value="Convert" onclick="dec2bin()" />
+<hr/>
+
+<div id = "result"></div>
+
+<script type = "text/javascript">
+
+function dec2bin() {
+var x = document.getElementById("deci").value;
+if ((/[^0-9]/g.test(x)) || x == "") {
+alert ("You must enter an integer decimal number!");
+document.getElementById("deci").value = "";
+document.getElementById("deci").focus();
+return false;
+}
+x = parseInt(x);
+var bin = x.toString(2);
+var hex = x.toString(16).toUpperCase();
+var octal = x.toString(8);
+
+
+var figs = "The binary representation of " + x + " is " + bin + "<br>";
+figs = figs + "The hexadecimal representation of " + x + " is " + hex + "<br>";
+figs = figs + "The octal representation of " + x + " is " + octal + "<br>";
+
+document.getElementById("result").innerHTML = figs;
+}
+</script>
+
+<font face="arial" size="-2">This free script provided by</font><br>
+<font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
+Kit</a></font></p>
+<pre>
+<hr />
+Java Primatives
+Data Type	Default Value (for fields)
+byte	0
+short	0
+int	0
+long	0L
+float	0.0f
+double	0.0d
+char	'\u0000'
+String (or any object)  	null
+boolean	false
+<hr />
+http://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html
+
+4.2.1. Integral Types and Values
+
+The values of the integral types are integers in the following ranges:
+
+For byte, from -128 to 127, inclusive
+
+For short, from -32768 to 32767, inclusive
+
+For int, from -2147483648 to 2147483647, inclusive
+
+For long, from -9223372036854775808 to 9223372036854775807, inclusive
+
+For char, from '\u0000' to '\uffff' inclusive, that is, from 0 to 65535
+<hr />
+
+</pre>
+
+
+</body>
+</html>

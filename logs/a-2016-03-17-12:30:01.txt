@@ -1,0 +1,12 @@
+Mar 14 13:52:50 localhost gdm-password]: pam_unix(gdm-password:auth): conversation failed
+Mar 14 13:52:50 localhost gdm-password]: pam_unix(gdm-password:auth): auth could not identify password for [an]
+Mar 14 13:52:50 localhost gdm-password]: gkr-pam: no password is available for user
+Mar 14 13:52:50 localhost gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+Mar 14 13:52:51 localhost polkitd[742]: Registered Authentication Agent for unix-session:c2 (system bus name :1.210 [gnome-shell --mode=gdm], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Mar 14 13:52:59 localhost gdm-password]: pam_unix(gdm-password:auth): conversation failed
+Mar 14 13:52:59 localhost gdm-password]: pam_unix(gdm-password:auth): auth could not identify password for [an]
+Mar 14 13:52:59 localhost gdm-password]: gkr-pam: no password is available for user
+Mar 15 12:34:28 localhost su: pam_unix(su:session): session opened for user root by an(uid=1000)
+Mar 15 12:47:37 localhost su: pam_unix(su:session): session closed for user root
+Mar 15 13:51:02 localhost gdm-password]: gkr-pam: unlocked login keyring
+Mar 15 13:53:07 localhost gdm-password]: gkr-pam: unlocked login keyring
